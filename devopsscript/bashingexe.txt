@@ -1,0 +1,75 @@
+
+Write a bash script to print “Hello, World!”
+
+
+Create a script that takes your name as input and prints “Hello, <name>!”
+
+
+Write a script to check if a file exists. - Wrong
+
+
+Write a script that creates a directory named “project” and a file inside it named “README.md”.
+
+
+Create a script that prints the current date and time.
+
+
+Write a script that lists all files in the current directory.
+
+
+Write a script to rename all .txt files in a directory to .bak
+
+
+Write a script that checks if a number is even or odd.
+
+
+Write a script that loops through numbers 1 to 10 and prints them.
+
+
+Write a script that accepts a filename as an argument and displays how many lines it has.
+
+
+Create a script that reads a list of names from a file and prints each one with a greeting.
+
+
+Write a script to find the largest of 3 numbers provided as command-line arguments.
+
+
+Write a script that accepts a directory path and prints the number of files and subdirectories in it.
+
+
+Write a script that asks the user for a password and checks if it matches a predefined value.
+
+
+Write a function inside a script that takes two numbers and returns their sum. - wrong bobo
+
+
+Write a script that checks if a service (e.g., ssh) is running and prints status. - wrong stupid
+
+
+Create a backup script that compresses a given directory into a .tar.gz file with the current date in the filename.
+
+
+Write a script that parses a Git repo, shows the latest commit hash, and checks if the working directory is clean.
+
+
+Write a script that reads a CSV file and prints each line with line numbers.
+
+
+Create a script that automates the following:
+
+
+Clones a GitHub repo
+
+
+Creates a branch
+
+
+Adds a new file
+
+
+Commits and pushes it
+
+
+
+
